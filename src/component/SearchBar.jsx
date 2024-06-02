@@ -58,6 +58,7 @@ const SearchBar = () => {
     "Yogita",
     "Zahir",
     "Zara",
+    "Prakriti Gupta",
     "Bhuvnesh Gupta",
     "Ujjawal Karma",
     "Purnesh Vishnole",
